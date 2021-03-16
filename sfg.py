@@ -8,7 +8,7 @@ from apscheduler.schedulers.blocking import BlockingScheduler
 search_word = '신한은행'
 
 # 텔레그램 봇 생성
-token = '1659610769:AAHVplqiz3hKM8F9RuUTz1gelpJpGzRFaMc'
+token = '#####'
 bot = telegram.Bot(token=token)
 # 스케쥴러 생성
 sched = BlockingScheduler()
