@@ -5,3 +5,4 @@
 * https://stackoverflow.com/questions/59539194/how-to-download-all-mp3-url-as-mp3-from-a-webpage-using-python3
 * https://www.itersdesktop.com/2020/09/06/downloading-files-in-python-using-wget-module/
 * https://untitledtblog.tistory.com/169 YouTube
+* https://yobro.tistory.com/193?category=793224
